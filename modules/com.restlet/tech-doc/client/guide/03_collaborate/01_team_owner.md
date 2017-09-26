@@ -22,7 +22,7 @@ Now, let's share a project with your team. In your repository, click on a projec
 
 ![Share a project](images/share_project.png "Share project")
 
-Then, you'll have to set the project's visibility to Team.
+Then, you set the project's visibility to Team.
 
 ![Set project visibility](images/project_visibility.png "Set project visibility")
 
