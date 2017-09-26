@@ -1,5 +1,3 @@
-# Editing a shared project
-
 A shared project can be edited at the same time by multiple team members. Two situations can happen: 
 - Non concurrent editions. In this case, they are updated `every 40 seconds` for each team members.
 - Concurrent editions. They are resolved by the principle `last-in-wins` (the last writer wins). 

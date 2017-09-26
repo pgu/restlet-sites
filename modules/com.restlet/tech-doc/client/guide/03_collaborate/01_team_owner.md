@@ -1,5 +1,3 @@
-# Managing your team and your shared projects
-
 As a Restlet user, you'll have one team assigned to your account. 
 You are a team owner. 
 This team will be used across Restlet Client, Restlet Studio, and Restlet Cloud.

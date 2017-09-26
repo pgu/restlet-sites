@@ -1,5 +1,3 @@
-# As a team member, I want to add a project to a team I belong to
-
 As a team member, you can see to which teams you belong to in the repository view.
 
 ![TM Repository](images/TM_repository.png "Team member repository")
