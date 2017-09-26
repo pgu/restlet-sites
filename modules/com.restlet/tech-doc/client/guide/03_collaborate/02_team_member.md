@@ -1,27 +1,17 @@
-As a team member, you can see to which teams you belong to in the repository view.
+As a team member, you can see to which teams you belong to in the view `Repository`. 
+For each team, you have a drive with the team owner's name.
 
-![TM Repository](images/TM_repository.png "Team member repository")
+The team owner may have already shared projects with you. Nonetheless you can also share projects with the team.
 
-The team owner shares projects with you. Nonetheless you can also share projects with the team.
-
-In your repository, click on a project's menu to use the *Share* action.
-
-![TM Share a project](images/TM_share_project.png "Share a project as team member")
-
-Then, you set the project's visibility to the team you want.
-
-![TM Set project visibility](images/TM_project_visibility.png "Set project visibility as team member")
+In your repository, click on a project's menu to use the `Share` action.
+Then, you set the project's access to `the team you want`.
 
 > __Note:__ Here, the sharing is about transferring the project to the team. 
-This implies you will lose the project's management, such as the delete action. 
+This implies **you will lose the project's management**, such as the delete action. 
 Indeed, it will be the team owner that will be able to manage the project.  
 
-Once a project is shared, it is transferred to the team.
+Once a project is shared, it is transferred to the team. The project doesn't appear anymore under `MY DRIVE` but under the `drive's team`.
 
-![TM Transferred project](images/TM_transferred_project.png "Transferred project from Team Member")
-
-From now on, the team owner will see the project appear and marked as a shared project.
-
-![TO Transferred project](images/TO_transferred_project.png "Transferred project for Team Owner")
+From now on, the team owner will see the project in his drive and it will be displayed as a shared project (in _green_).
 
 **TODO naming constraints**
