@@ -8,7 +8,7 @@ Then, you set the project's **access to the team you want**.
 
 > __Note:__ Here, the sharing is about **transferring** the project to the team. 
 This implies *you will lose the project's management*, such as the delete action. 
-Indeed, it will be the team owner that will be able to manage the project.  
+It will be the team owner that will be able to manage the project.  
 
 Once a project is shared, it is transferred to the team. The project doesn't appear anymore under MY DRIVE but **under the drive's team**.
 
