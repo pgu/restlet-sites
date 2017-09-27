@@ -13,6 +13,3 @@ Now, let's share a project with your team. In your repository, click on a projec
 Then, you set the project's **access to Team**. Once a project is shared with your team members, it is displayed as **green**.
  
 From now on, your team members will see the shared project appear in their repositories under **a new drive with your name**.
-
-
-**TODO naming constraints**

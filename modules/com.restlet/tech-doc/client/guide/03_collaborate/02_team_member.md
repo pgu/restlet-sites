@@ -14,4 +14,4 @@ Once a project is shared, it is transferred to the team. The project doesn't app
 
 From now on, the team owner will see the project in his drive and it will be displayed as a shared project (in **green**).
 
-**TODO naming constraints**
+> __Note:__ Sharing a project whose name is already used by a shared or private project of the selected team, will be blocked.  
