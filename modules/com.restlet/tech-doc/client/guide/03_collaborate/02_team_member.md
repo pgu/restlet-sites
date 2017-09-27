@@ -6,8 +6,8 @@ The team owner may have already shared projects with you. Nonetheless, **you can
 In your repository, click on a project's menu to use the **Share** action.
 Then, you set the project's **access to the team you want**.
 
-> __Note:__ Here, the sharing is about transferring the project to the team. 
-This implies **you will lose the project's management**, such as the delete action. 
+> __Note:__ Here, the sharing is about **transferring** the project to the team. 
+This implies *you will lose the project's management*, such as the delete action. 
 Indeed, it will be the team owner that will be able to manage the project.  
 
 Once a project is shared, it is transferred to the team. The project doesn't appear anymore under MY DRIVE but **under the drive's team**.
